@@ -7,5 +7,5 @@
 
 import Foundation
 
-print("Hello, World!")
-
+let someValue = Int()
+print(someValue)
